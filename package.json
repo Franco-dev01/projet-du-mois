@@ -1,0 +1,32 @@
+{
+  "name": "projet",
+  "version": "1.0.0",
+  "description": "NaN",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Francis",
+  "license": "ISC",
+  "dependencies": {
+    "babel-register": "^6.26.0",
+    "body": "^5.1.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "dateformat": "^3.0.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-validator": "^5.3.1",
+    "jquery": "^3.3.1",
+    "mysql": "^2.16.0",
+    "mysql-promise": "^5.0.0",
+    "parser": "^0.1.4",
+    "tether": "^1.4.5"
+  },
+  "devDependencies": {
+    "morgan": "^1.9.1",
+    "ms": "^2.1.1"
+  },
+  "keywords": []
+}
